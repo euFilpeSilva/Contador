@@ -1,0 +1,96 @@
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: center;
+  justify-content: center;
+  margin-top: 500px;
+  flex-direction: column;
+  background: deepskyblue;
+}
+.frase-inicio{
+  margin-bottom: 25px;
+  padding-top:10px;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+
+header{
+background: darkblue;
+height: 60px;
+width: 310px;
+text-align: center;
+border-radius: 20px 20px 0 0;
+box-shadow: 5px 3px 5px #000; 
+}
+.dados{
+  
+}
+
+section{
+  background: royalblue;
+  width: 310px;
+  padding-bottom: 10px;
+ margin-top:-10px;
+ border-radius: 0 0 20px 20px;
+ box-shadow: 5px 3px 5px #000; 
+}
+
+section .form{
+  background: #fff;
+  font-family: cursive;
+  width: 60%;
+  height: 20px;
+  margin-top: 15px;
+  
+  display: flex;
+  align-items: flex-end;
+}
+
+.linha-form{
+  display: flex;
+ position: relative;
+ left: 70px;
+  
+}
+.nome-form{
+  position: relative;
+  top:30px;
+  left: 20px;
+}
+
+#result{
+  margin-top: 5px;
+text-align: center;
+}
+
+ #botao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: center;
+  margin-top: 10px;
+
+}
+
+#botao-int{
+  width: 80px;
+  height: 25px;
+  font-size: 20px;
+  background: #000;
+  color:#fff;
+}
+
+#result{
+  width: 300px;
+  padding-left: 5px;
+}
+
+#corpogeral{
+position: relative;
+top: -60%;
+}
+
+footer{
+  
+}
