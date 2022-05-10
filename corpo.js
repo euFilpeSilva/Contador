@@ -3,7 +3,7 @@
 //alem de também realizar um teste logico
 // pra saber se tem algum campo vazio e realizar a conversão
 //dos valores de string pra number e por fim
-//encrementar a contagem de acordo com is dados passados.
+//encrementar a contagem de acordo com os dados passados.
 
 function contar(){
   //armazenando os dados passados
